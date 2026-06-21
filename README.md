@@ -65,7 +65,7 @@ Before you begin, make sure you have the following installed:
 
 4. Interact with the app:
 
-   - Visit http://172.18.0.3:5000/ to see the frontend. You can submit new messages using the form.
+   - Visit http://172.18.0.3:5000 to see the frontend. You can submit new messages using the form.
    - Visit http://localhost:5000/insert_sql to insert a message directly into the `messages` table via an SQL query.
 
 ## Cleaning Up
